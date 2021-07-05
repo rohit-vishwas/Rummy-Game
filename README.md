@@ -1,5 +1,5 @@
 # Rummy-Game
-Interactive rummy game implement in python.
-We implemented some algorithm which allows user to play with computer.
+An interactive rummy game implemented in python.
+We implemented some algorithm which allows user to play with computer brain.
 
 ![](Rummy%20Game/running%20Game.png)
